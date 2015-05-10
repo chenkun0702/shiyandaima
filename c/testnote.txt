@@ -1,0 +1,9 @@
+1.读取用户输入的名字，然后查找，如果用户输入的是“quit”则结束
+
+2.设计两个函数:check_user,show_user
+
+check_user:查找Linux系统中是否存在用户输入的用户名,存在返回这个用户在/etc/passwd文件中的行号,
+		   不存在则返回0
+
+show_user :输出查找到的用户的NAME:UID:GID
+
