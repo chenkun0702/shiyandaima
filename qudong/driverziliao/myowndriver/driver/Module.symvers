@@ -1,0 +1,3 @@
+0x8c0aa047	func	/home/linux/lianxi/linuxdriver/driver/hello	EXPORT_SYMBOL
+0xc5ee317f	fun1	/home/linux/lianxi/linuxdriver/driver/hello	EXPORT_SYMBOL
+0xe5db5249	global_data	/home/linux/lianxi/linuxdriver/driver/hello	EXPORT_SYMBOL
